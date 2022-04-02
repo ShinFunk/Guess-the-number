@@ -1,2 +1,2 @@
-# Guess-the-numbe r
+# Guess-the-numbe 
 A simple but fun game with JavaScript.
